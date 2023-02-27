@@ -1,0 +1,15 @@
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.csproj.AssemblyReference.cache
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.AssemblyInfoInputs.cache
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.AssemblyInfo.cs
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.csproj.CoreCompileInputs.cache
+C:\Users\lj\Desktop\git\new file\bin\Debug\net7.0\new file.exe
+C:\Users\lj\Desktop\git\new file\bin\Debug\net7.0\new file.deps.json
+C:\Users\lj\Desktop\git\new file\bin\Debug\net7.0\new file.runtimeconfig.json
+C:\Users\lj\Desktop\git\new file\bin\Debug\net7.0\new file.dll
+C:\Users\lj\Desktop\git\new file\bin\Debug\net7.0\new file.pdb
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.dll
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\refint\new file.dll
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.pdb
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\new file.genruntimeconfig.cache
+C:\Users\lj\Desktop\git\new file\obj\Debug\net7.0\ref\new file.dll
