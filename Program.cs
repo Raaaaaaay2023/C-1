@@ -12,4 +12,4 @@ Console.WriteLine("The max number will be "+ max);
 //int result= c*d;
 //Console.WriteLine("The numbers you have typed is "+a+" and "+b);
 //Console.WriteLine("The result will be "+result);
-//finial changes
+//finial changes  s s
